@@ -1,0 +1,16 @@
+C:\Users\wenni\source\repos\J.A.K.E WFA\J.A.K.E WFA\bin\Debug\net8.0-windows\J.A.K.E WFA.exe
+C:\Users\wenni\source\repos\J.A.K.E WFA\J.A.K.E WFA\bin\Debug\net8.0-windows\J.A.K.E WFA.deps.json
+C:\Users\wenni\source\repos\J.A.K.E WFA\J.A.K.E WFA\bin\Debug\net8.0-windows\J.A.K.E WFA.runtimeconfig.json
+C:\Users\wenni\source\repos\J.A.K.E WFA\J.A.K.E WFA\bin\Debug\net8.0-windows\J.A.K.E WFA.dll
+C:\Users\wenni\source\repos\J.A.K.E WFA\J.A.K.E WFA\bin\Debug\net8.0-windows\J.A.K.E WFA.pdb
+C:\Users\wenni\source\repos\J.A.K.E WFA\J.A.K.E WFA\obj\Debug\net8.0-windows\J.A.K.E_WFA.Form1.resources
+C:\Users\wenni\source\repos\J.A.K.E WFA\J.A.K.E WFA\obj\Debug\net8.0-windows\J.A.K.E WFA.csproj.GenerateResource.cache
+C:\Users\wenni\source\repos\J.A.K.E WFA\J.A.K.E WFA\obj\Debug\net8.0-windows\J.A.K.E WFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wenni\source\repos\J.A.K.E WFA\J.A.K.E WFA\obj\Debug\net8.0-windows\J.A.K.E WFA.AssemblyInfoInputs.cache
+C:\Users\wenni\source\repos\J.A.K.E WFA\J.A.K.E WFA\obj\Debug\net8.0-windows\J.A.K.E WFA.AssemblyInfo.cs
+C:\Users\wenni\source\repos\J.A.K.E WFA\J.A.K.E WFA\obj\Debug\net8.0-windows\J.A.K.E WFA.csproj.CoreCompileInputs.cache
+C:\Users\wenni\source\repos\J.A.K.E WFA\J.A.K.E WFA\obj\Debug\net8.0-windows\J.A.K.E WFA.dll
+C:\Users\wenni\source\repos\J.A.K.E WFA\J.A.K.E WFA\obj\Debug\net8.0-windows\refint\J.A.K.E WFA.dll
+C:\Users\wenni\source\repos\J.A.K.E WFA\J.A.K.E WFA\obj\Debug\net8.0-windows\J.A.K.E WFA.pdb
+C:\Users\wenni\source\repos\J.A.K.E WFA\J.A.K.E WFA\obj\Debug\net8.0-windows\J.A.K.E WFA.genruntimeconfig.cache
+C:\Users\wenni\source\repos\J.A.K.E WFA\J.A.K.E WFA\obj\Debug\net8.0-windows\ref\J.A.K.E WFA.dll
