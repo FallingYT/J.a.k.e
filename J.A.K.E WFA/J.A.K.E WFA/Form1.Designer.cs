@@ -313,7 +313,7 @@
                                   "• ASCII Output: Displays special messages or logs.\n\n" +
                                   "   .\n\n" +
                                   "For help, contact  Jake 😎" +
-                                  "Email me at jakehohn05@gmail.com or call at 920-240-5807";
+                                  "Email me at jakehohn05@gmail.com ";
                 MessageBox.Show(helpText, "J.A.K.E Help", MessageBoxButtons.OK, MessageBoxIcon.Information);
             };
 
